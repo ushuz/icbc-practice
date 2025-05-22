@@ -2,7 +2,7 @@
 
 All questions from [ICBC Practice Knowledge Test](https://practicetest.icbc.com).
 
-Built with [Svelte](https://svelte.dev), hosted on [Glitch](https://icbc-practice.glitch.me/).
+Built with [Svelte](https://svelte.dev), hosted on [GitHub Pages](https://ushuz.github.io/icbc-practice/).
 
 ## Development
 
